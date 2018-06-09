@@ -5,7 +5,7 @@ close all
 % Load the image
 % Change the path to where your image is located (typically the
 % homework kit)
-image_path = 'waldo.png';
+image_path = 'waldo.jpg';
 im_original = imread(image_path);
 im = double(im_original);
 
